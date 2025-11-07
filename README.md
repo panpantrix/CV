@@ -74,18 +74,9 @@
 			
 			<div>
 				<ul>
-					<li><b>2015-2021</b>Kalidadap1</li>
+					<li><b>2015-2021</b> Kalidadap1</li>
 					<li><b>2021-2024</b> SMP N 2 Pundong</li>
-					<li><b>2024-2027</b> SMK N1 sanden</li>
-				</ul>
-			</div>
- 
-		</div>
- 
-		<div class="blok">
-			
-			<div>
-				<ul>
+					<li><b>2024-2027</b> SMK N 1 Sanden</li>
 				</ul>
 			</div>
  
