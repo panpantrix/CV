@@ -88,12 +88,6 @@
 			
 			<div>
 				<ul>
-					<li>
-						<b>2017 - 2019</b> - <i>Back-End Developer</i> - di Di PT. Teknologi Indonesia
-					</li>
-					<li>
-						<b>2020 - 2021</b> - <i>Full Stack Developer</i> - di Di PT. BOX Tech AI Indonesia
-					</li>
 				</ul>
 			</div>
  
