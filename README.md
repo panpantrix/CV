@@ -83,8 +83,6 @@
 		</div>
  
 		<div class="blok">
- 
-			<h2>SEKOLAH</h2>
 			
 			<div>
 				<ul>
